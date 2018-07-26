@@ -1,0 +1,17 @@
+{
+  "name": "24.5-samodzielne-pisanie-testow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculateDistancePoints.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha calculateTotalPoints.test.js",
+    "test1": "mocha calculateDistancePoints.test.js",
+    "test2": "mocha calculateStylePoints.test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
